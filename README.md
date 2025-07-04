@@ -51,27 +51,6 @@ Desarrollada con:
 - Panel de control de recursos
 
 ---
-
-## 📁 Estructura del Proyecto
-
-/src
-├── interfaz/
-│ ├── MainFrame.java
-│ ├── PanelAlerta.java
-│ ├── PanelUnidad.java
-├── estructuras/
-│ ├── LSimple.java
-│ ├── LDoble.java
-│ ├── Pila.java
-│ ├── NodoS.java
-│ ├── NodoD.java
-├── logica/
-│ ├── GestorIncendios.java
-│ ├── Alerta.java
-│ ├── Unidad.java
-│ ├── Zona.java
----
-
 ## ▶️ Cómo ejecutar
 
 1. Abrir el proyecto en **NetBeans IDE**
